@@ -1,0 +1,19 @@
+<DeviceClass>
+    <Capabilities>
+        <Capability id="Switch" />
+        <Capability id="Light" />
+    </Capabilities>
+    <Properties>
+        <Property id="Brightness" type="integer" />
+        <Property id="Color" type="string" />
+    </Properties>
+    <Connections>
+        <Connection id="Network" type="wifi" />
+        <Connection id="Power" type="electric" />
+    </Connections>
+    <Commands>
+        <Command id="TurnOn" />
+        <Command id="TurnOff" />
+        <Command id="SetBrightness" />
+    </Commands>
+</DeviceClass>
