@@ -1,0 +1,26 @@
+# Control4 Development .gitignore
+
+# Compiled files
+*.o
+*.out
+*.class
+*.exe
+*.dll
+
+# IDE settings
+.idea/
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+/build/
+/dist/
+
+# Control4 specific temporary files
+/tmp/
+*.log
