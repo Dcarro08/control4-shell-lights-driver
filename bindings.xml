@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><bindings><binding><type>light</type><name>Shell Light</name><id>shell_light</id></binding><binding><type>dimmer</type><name>Shell Dimmer</name><id>shell_dimmer</id></binding><binding><type>module</type><name>Shell Module</name><id>shell_module</id></binding></bindings>
